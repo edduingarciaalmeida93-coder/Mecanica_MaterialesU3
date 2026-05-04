@@ -30,6 +30,4 @@ Donde:
 * Biblioteca estándar `math`.
 
 ## Integrantes del Equipo (ITSC)
-* [Tu Nombre Completo]
-* [Nombre de tu Compañero 1]
-* [Nombre de tu Compañero 2]
+GARCIA ALMEIDA EDDUIN JAVIER 
